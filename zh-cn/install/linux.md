@@ -10,7 +10,7 @@
 下载
 ---
 
-你可以从我们的 [官方下载渠道](https://mohistmc.com/download) 或者 [Jenkins](https://ci.codemc.org/job/MohistMC/) 下载最新构建。
+你可以从我们的 [官方下载渠道](https://mohistmc.com/downloadSoftware?project=mohist) 或者 [Jenkins](https://ci.codemc.org/job/MohistMC/) 下载最新构建。
 
 你也可以手动使用**wget**来下载。
 

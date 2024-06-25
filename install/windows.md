@@ -10,7 +10,7 @@ Please read the [requirements page](install/requirements.md) before reading this
 Download
 ---
 
-You can download the latest version from our [Website](https://mohistmc.com/download) or our [Jenkins](https://ci.codemc.org/job/MohistMC/).
+You can download the latest version from our [Website](https://mohistmc.com/downloadSoftware?project=mohist) or our [Jenkins](https://ci.codemc.org/job/MohistMC/).
 
 Install
 ---

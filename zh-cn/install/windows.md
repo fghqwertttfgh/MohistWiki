@@ -10,7 +10,7 @@
 下载
 ---
 
-你可以从我们的[官网](https://mohistmc.com/download) 或者 [Jenkins](https://ci.codemc.org/job/MohistMC/)下载.
+你可以从我们的[官网](https://mohistmc.com/downloadSoftware?project=mohist) 或者 [Jenkins](https://ci.codemc.org/job/MohistMC/)下载.
 
 安装
 ---
